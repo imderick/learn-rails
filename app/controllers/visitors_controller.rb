@@ -4,4 +4,5 @@ class VisitorsController < ApplicationController
     @owner = Owner.new
   end
   
+  
 end
