@@ -1,0 +1,5 @@
+export GMAIL_USERNAME="derickmartinab@gmail.com" 
+export GMAIL_PASSWORD="uaggwemdmxaaechy"
+export MAILCHIMP_API_KEY="158dba7e3a34cec13d018b8ada881fae-us10"
+export MAILCHIMP_LIST_ID="9f2d741224"
+export OWNER_EMAIL="derickmartinab@gmail.com"
